@@ -5,7 +5,7 @@ function s(width , height) {
     let b = parseInt(width) * parseInt(height)
     alert(b + 'sms = S')
     document.write(`<div class="square" width="${w}" height="${h}" style="display: inline-block" id="square">
-    <h2>S = <span id="s">${b}</span>sm</h2>
+    <h2>S = <span id="s">${b}</span>sms</h2>
     </div>
     `)
 }
