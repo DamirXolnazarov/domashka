@@ -12,15 +12,11 @@ body{
     width: 200px;
     height: 200px;
     background: lime;
-    text-align: center;
-    border: 2px solid lime;
 }
 h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: orangered;
-    position: absolute;
 }
 span{
     color: yellow;
-    display: block;
 }
