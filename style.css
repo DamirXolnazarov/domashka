@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #333;
+    display: flex;
+    justify-content: center;
+}
+.square{
+    width: 200px;
+    height: 200px;
+    background: lime;
+    text-align: center;
+    border: 2px solid lime;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: orangered;
+    position: absolute;
+}
+span{
+    color: yellow;
+    display: block;
+}
